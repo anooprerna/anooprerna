@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anooprerna
+- 👀 I’m interested in Python Programming and Trading. 
+- 🌱 I’m currently learning Python Programming and Trading. 
+- 💞️ I’m looking to collaborate on Python Programming and Trading. 
+- 📫 How to reach me - Email me @anooppatils@gmail.com
